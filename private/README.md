@@ -9,4 +9,4 @@ Use this folder to keep organization-specific assets when you need to build Agen
   - `assets/` — any private resources that the app should not bundle.
 - Everything in `private/` is ignored by git (except this README and `.gitkeep` files), so your sensitive data stays out of commits.
 
-When preparing a private fork, drop your customized files into this directory and wire them up in your deployment pipeline (for example, copy or mount the private `config` contents over the default `conf/` files during deployment). This keeps upstream source untouched while enabling private overrides.
+When preparing a private fork, drop your customized files into this directory. Wire them up in your deployment pipeline (for example, copy or mount the private `config` contents over the default `conf/` files during deployment). This keeps upstream source untouched while enabling private overrides.
