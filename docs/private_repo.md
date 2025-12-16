@@ -9,10 +9,10 @@ This guide explains how to keep organization-only assets in a **separate private
 ## Directory structure
 Create a `private/` folder at the repository root:
 
-- `private/README.md` – usage notes (tracked)
-- `private/config/` – copies of config you need to override (e.g., `model_providers.yaml`, `.env` files)
-- `private/docs/` – internal documentation and team runbooks
-- `private/assets/` – any private binaries or resources
+- `private/README.md` - usage notes (tracked)
+- `private/config/` - copies of config you need to override (e.g., `model_providers.yaml`, `.env` files)
+- `private/docs/` - internal documentation and team runbooks
+- `private/assets/` - any private binaries or resources
 
 All contents under `private/` are ignored by git (except this README and `.gitkeep` files), so your sensitive material stays out of commits.
 
