@@ -28,7 +28,6 @@ usr/*
 
 # Handle private overlays (kept out of version control)
 private/**
-!private/**/
 !private/README.md
 
 # Handle knowledge directory
