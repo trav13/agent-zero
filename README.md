@@ -17,6 +17,7 @@
 [Extensibility](./docs/extensibility.md) •
 [Connectivity](./docs/connectivity.md) •
 [How to update](./docs/installation.md#how-to-update-agent-zero) •
+[Private repo layout](./docs/private_repo.md) •
 [Documentation](./docs/README.md) •
 [Usage](./docs/usage.md)
 

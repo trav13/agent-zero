@@ -26,6 +26,11 @@ logs/*
 tmp/*
 usr/*
 
+# Handle private overlays (kept out of version control)
+private/**
+!private/**/
+!private/README.md
+
 # Handle knowledge directory
 knowledge/**
 !knowledge/**/
@@ -45,4 +50,3 @@ instruments/**
 
 # for browser-use
 agent_history.gif
-
