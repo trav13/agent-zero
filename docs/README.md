@@ -5,6 +5,7 @@ To begin with Agent Zero, follow the links below for detailed guides on various 
 - **[Installation](installation.md):** Set up (or [update](installation.md#how-to-update-agent-zero)) Agent Zero on your system.
 - **[Usage Guide](usage.md):** Explore GUI features and usage scenarios.
 - **[Development](development.md):** Set up a development environment for Agent Zero.
+- **[Private Repository Layout](private_repo.md):** Isolate organization-only assets without touching the app.
 - **[Extensibility](extensibility.md):** Learn how to create custom extensions for Agent Zero.
 - **[Connectivity](connectivity.md):** Learn how to connect to Agent Zero from other applications.
 - **[Architecture Overview](architecture.md):** Understand the internal workings of the framework.
