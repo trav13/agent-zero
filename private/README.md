@@ -1,6 +1,6 @@
 # Private workspace for your organization
 
-Use this folder to keep organization-specific assets when you need to build Agent Zero inside a private repository without touching the core application files.
+Use this folder to keep organization-specific assets when you need to customize or deploy Agent Zero from a private repository without touching the core application files.
 
 - Keep environment files, provider overrides, and secrets here instead of in the app tree.
 - Recommended layout:

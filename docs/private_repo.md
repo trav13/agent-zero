@@ -21,4 +21,4 @@ All contents under `private/` are ignored by git (except this README and `.gitke
 2. In your CI/CD or deployment scripts, copy or mount the private config files over the defaults in `conf/` before starting the app. This avoids editing application files directly.
 3. Keep any internal documentation in `private/docs/` so it travels with your private fork but remains separated from the public documentation set.
 
-By isolating private assets here, you can build out your own private repository or fork without "messing with the app" while still having a predictable place to store overrides and notes.
+By isolating private assets here, you can build out your own private repository or fork without modifying the core application files while still having a predictable place to store overrides and notes.
